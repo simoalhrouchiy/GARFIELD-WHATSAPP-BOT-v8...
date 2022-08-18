@@ -14,9 +14,9 @@ global.APIKeys = {
 // 👈 You Can change this your choice
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
-global.notice = ` *Hi 🥰 I m*
+global.notice = ` *مࢪحبا إسمي*
 *لــقـــمـــان/>ڪـࢪوز❦︎🤍•! Ξ*
-*عمــࢪي 16 وانــا مطـوࢪ البــوتــات...*
+*عمــࢪي 17وانــا مطـوࢪ البــوتــات...*
 *From morocco✍️😻*
 *I am a Learning.*
 *Not more..*
