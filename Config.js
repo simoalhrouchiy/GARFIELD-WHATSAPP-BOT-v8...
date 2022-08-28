@@ -12,10 +12,10 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 // 👈 You Can change this your choice
-global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
-global.emoji02 = ['🦋'] //👈 Enter your Emoji
+global.emoji01 = ['💔'] // 👈 Enter your Emoji 
+global.emoji02 = ['🥺'] //👈 Enter your Emoji
 global.notice = ` *مࢪحبا إسمي*
-*لــقـــمـــان/>ڪـࢪوز❦︎🤍•! Ξ*
+*لــقــمــاڻ المــلــڪيـﮯ//!!🏴󠁧󠁢󠁥󠁮󠁧󠁿⃟🌹•! Ξ*
 *عمــࢪي 17وانــا مطـوࢪ البــوتــات...*
 *From morocco✍️😻*
 *I am a Learning.*
@@ -32,8 +32,8 @@ global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 Yo
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
 global.myweb = 'https://www.facebook.com/garfieldbots/' // 👈 Enter your Social media link to follow now button
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.packname = 'حنا لمࢪاڪشين هيبين عليڪم'  // 👈 You Can change this your choice 
+global.author = 'لقمان لملڪي😻❤️‍🔥💓' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
@@ -41,7 +41,7 @@ global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png'
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
-    success: 'Done 🦋', // 👈 You Can change this your choice
+    success: 'ok hh Done 🦋', // 👈 You Can change this your choice
     admin: 'This Feature Is Only For Admin!', // 👈 You Can change this your choice
     botAdmin: 'Bot Must Be Admin First!', // 👈 You Can change this your choice
     owner: 'This Feature Is Only For Owner!', // 👈 You Can change this your choice
