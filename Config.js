@@ -36,7 +36,7 @@ global.author = '😘سيمو😎الهروشي😍 // 👈 You Can change this 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
+global.thumb =  'https://user-images.githubusercontent.com/114958688/196512709-54ae1ad3-72b4-4d04-915c-73b659c0cb78.jpg' 
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
