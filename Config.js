@@ -14,26 +14,25 @@ global.APIKeys = {
 // 👈 You Can change this your choice
 global.emoji01 = ['💔'] // 👈 Enter your Emoji 
 global.emoji02 = ['🥺'] //👈 Enter your Emoji
-global.notice = ` *مࢪحبا إسمي*
-*لــقــمــاڻ المــلــڪيـﮯ//!!🏴󠁧󠁢󠁥󠁮󠁧󠁿⃟🌹•! Ξ*
-*عمــࢪي 17وانــا مطـوࢪ البــوتــات...*
-*From morocco✍️😻*
+global.notice = ` *سيموالهروشي*
+*😘سيمو😎الهروشي😍*
+*😘سيمو😎الهروشي😍*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
 *Follow My YOUTOUB - https://youtu.be/qm6ywhlvDKQ*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+212661809542'] //👈  Enter Your number
-global.premium =  ['+212661809542'] //👈  Enter Your number
-global.ownernomer = '+212661809542' //👈  Enter Your number
+global.owner =  ['+212766544645'] //👈  Enter Your number
+global.premium =  ['+212766544645'] //👈  Enter Your number
+global.ownernomer = '+212766544645' //👈  Enter Your number
 global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = ' 𝐋𝐎9𝐌𝐀𝐍𝐄 ＢＯＴ ｖ8.2' //👈 Enter Your Bot name
+global.botname = '😘سيمو😎الهروشي😍 ＢＯＴ ｖ8.2' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝐋𝐎9𝐌𝐀𝐍𝐄 𝖡𝗈𝗍' //👈 Enter Your Name
 global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
 global.myweb = 'https://www.facebook.com/garfieldbots/' // 👈 Enter your Social media link to follow now button
-global.packname = 'حنا لمࢪاڪشين هيبين عليڪم'  // 👈 You Can change this your choice 
-global.author = 'لقمان لملڪي😻❤️‍🔥💓' // 👈 You Can change this your choice 
+global.packname = '😘سيمو😎الهروشي😍'  // 👈 You Can change this your choice 
+global.author = '😘سيمو😎الهروشي😍 // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
