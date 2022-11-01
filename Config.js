@@ -26,7 +26,7 @@ global.premium =  ['+212766544645'] //👈  Enter Your number
 global.ownernomer = '+212766544645' //👈  Enter Your number
 global.ownername = 'ZENOI' //👈 Enter Your name
 global.botname = '😘سيمو😎الهروشي😍 ＢＯＴ ｖ8.2' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝐋𝐎9𝐌𝐀𝐍𝐄 𝖡𝗈𝗍' //👈 Enter Your Name
+global.footer = '© 😘سيمو😎الهروشي😍' //👈 Enter Your Name
 global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
@@ -41,9 +41,9 @@ global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png'
 global.sp = '⭔'
 global.mess = {
     success: 'ok hh Done 🦋', // 👈 You Can change this your choice
-    admin: 'This Feature Is Only For Admin!', // 👈 You Can change this your choice
+    admin: '😘سيمو😎الهروشي😍', // 👈 You Can change this your choice
     botAdmin: 'Bot Must Be Admin First!', // 👈 You Can change this your choice
-    owner: 'This Feature Is Only For Owner!', // 👈 You Can change this your choice
+    owner: '😘سيمو😎الهروشي😍!', // 👈 You Can change this your choice
     group: 'Feature Used Only For Groups!', // 👈 You Can change this your choice
     private: 'Features Used Only For Private Chat!', // 👈 You Can change this your choice
     bot: 'This Feature Is Only For Bot', // 👈 You Can change this your choice
